@@ -7,11 +7,11 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/product-list": "^1.5.0",
+    "spryker/product-list": "^1.6.0",
     "spryker/product-list-data-import": "^0.1.0",
-    "spryker/product-list-gui": "^2.0.0",
-    "spryker/product-list-search": "^2.1.0",
-    "spryker/product-list-storage": "^1.8.0"
+    "spryker/product-list-gui": "^2.1.0",
+    "spryker/product-list-search": "^2.4.0",
+    "spryker/product-list-storage": "^1.13.0"
   },
   "extra": {
     "branch-alias": {
