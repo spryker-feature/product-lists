@@ -15,4 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ProductBundleProductListConnector ^1.0.0](https://github.com/spryker/product-bundle-product-list-connector) (Connector)
-- [ProductListExtension ^1.0.0](https://github.com/spryker/product-list-extension) (Extension)
+- [ProductListExtension ^1.1.0](https://github.com/spryker/product-list-extension) (Extension)
