@@ -1,24 +1,24 @@
 {
-  "name": "spryker-feature/product-lists",
-  "description": "Product Lists [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/product-list": "^1.6.0",
-    "spryker/product-list-data-import": "^0.1.0",
-    "spryker/product-list-gui": "^2.1.0",
-    "spryker/product-list-search": "^2.4.0",
-    "spryker/product-list-storage": "^1.13.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-lists",
+    "description": "Product Lists [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/product-list": "^1.6.0",
+        "spryker/product-list-data-import": "^0.1.0",
+        "spryker/product-list-gui": "^2.1.0",
+        "spryker/product-list-search": "^2.4.0",
+        "spryker/product-list-storage": "^1.14.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
