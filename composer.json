@@ -6,16 +6,16 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker/product-list": "^1.6.0",
         "spryker/product-list-data-import": "^0.1.0",
-        "spryker/product-list-gui": "^2.1.0",
-        "spryker/product-list-search": "^2.4.0",
-        "spryker/product-list-storage": "^1.14.0"
+        "spryker/product-list-gui": "^2.2.0",
+        "spryker/product-list-search": "^2.5.0",
+        "spryker/product-list-storage": "^1.15.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     },
     "suggest": {
