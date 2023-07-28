@@ -2,6 +2,8 @@
 
 Product lists are used to configure product availability for specific customers. You can either whitelist or backlist them
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/product-lists-feature-overview.html)
+
 ## Installation
 
 ```
