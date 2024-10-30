@@ -10,8 +10,8 @@
         "spryker/product-list": "^1.7.0",
         "spryker/product-list-data-import": "^0.1.0",
         "spryker/product-list-gui": "^2.6.0",
-        "spryker/product-list-search": "^2.6.0",
-        "spryker/product-list-storage": "^1.16.0"
+        "spryker/product-list-search": "^2.7.0",
+        "spryker/product-list-storage": "^1.17.0"
     },
     "extra": {
         "branch-alias": {
