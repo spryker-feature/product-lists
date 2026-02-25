@@ -10,12 +10,12 @@
         "spryker/product-list": "^1.9.0",
         "spryker/product-list-data-import": "^0.1.0",
         "spryker/product-list-gui": "^3.0.0",
-        "spryker/product-list-search": "^2.8.0",
+        "spryker/product-list-search": "^2.9.0",
         "spryker/product-list-storage": "^1.19.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202512.x-dev"
+            "dev-master": "202602.x-dev"
         }
     },
     "suggest": {
